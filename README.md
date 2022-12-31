@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoyAmram
 - 👀 I’m interested in Investigating and Analysing Data, Programming and Medical Science
-- 🌱 I’m currently learning Data Sceince at ITC
+- 🌱 I’m a Data Scientist based in Israel
 - 📫 You can reach me at noy.amram@gmail.com or at https://www.linkedin.com/in/noy-a-b0a59470
 
 <!---
